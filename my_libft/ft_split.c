@@ -6,7 +6,7 @@
 /*   By: asaadi-- <asaadi--@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/21 13:23:45 by asaadi--          #+#    #+#             */
-/*   Updated: 2024/11/26 18:52:59 by asaadi--         ###   ########.fr       */
+/*   Updated: 2025/01/21 17:20:59 by asaadi--         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -80,13 +80,13 @@ static int	compteur(char const *s, char c, int mat, int value)
 		return (wc);
 	return (1);
 }
-
+// #include <stdio.h>
 //  int	main(void)
 // {
-// // 	char	text[] = "lorem ipsum dolor sit amet";
-// // 	char	**result = ft_split(text, ' ');
-//  //	for (size_t i = 0; i < 2; i++)
-// //		printf("%s\n", result[i]);
-// free(ft_split(NULL, 'a'));
-// return (0);
+// 	char	text[] = "lorem ipsum dolor sit amet";
+// 	char	**result = ft_split(text, ' ');
+//  	for (size_t i = 0; i < 7; i++)
+// 		printf("%s\n", result[i]);
+// 	free_map(result);
+// 	return (0);
 // }
