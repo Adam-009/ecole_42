@@ -6,7 +6,7 @@
 /*   By: asaadi-- <asaadi--@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/13 13:15:02 by asaadi--          #+#    #+#             */
-/*   Updated: 2025/02/18 14:21:48 by asaadi--         ###   ########.fr       */
+/*   Updated: 2025/03/27 09:34:02 by asaadi--         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,6 +15,7 @@
 # include <stddef.h>
 # include <stdlib.h>
 # include <unistd.h>
+# include "get_next_line/get_next_line.h"
 # include "ft_printf/ft_printf.h"
 
 char			*ft_itoa(int n);
